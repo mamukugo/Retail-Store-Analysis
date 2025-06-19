@@ -74,10 +74,10 @@ The objective of this project is to analyze transactional data for an online sto
 
 # MY ADVICE TO THE COMPANY
 
-Inventory: Prioritize on stocking up more on the goods that were found to be the most bought buy customers.
-Marketing: Focus on marketing ads in The UK and ads that resonate with british most , because they are responsible for the largest portion of people buying from the store.
-Sales Stategy : during low seasons introduces sales and promotions to encourage more people to buy.
-Customer Loyalty : Introduce customer loyalty advantages to keep repeat customers and encourage more company loyalty.
+-Inventory: Prioritize on stocking up more on the goods that were found to be the most bought buy customers.
+-Marketing: Focus on marketing ads in The UK and ads that resonate with british most , because they are responsible for the largest portion of people buying from the store.
+-Sales Stategy : during low seasons introduces sales and promotions to encourage more people to buy.
+-Customer Loyalty : Introduce customer loyalty advantages to keep repeat customers and encourage more company loyalty.
 
 
 
